@@ -1,0 +1,14 @@
+version: '3'
+tasks:
+ test:
+ desc: Run tests
+ cmds:
+ - powershell scripts/skill-testing.ps1
+ enhance:
+ desc: Add MCPs
+ cmds:
+ - powershell scripts/quick-enhancement.ps1
+ update:
+ desc: Git pull
+ cmds:
+ - git pull
