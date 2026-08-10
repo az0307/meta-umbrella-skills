@@ -10,7 +10,7 @@ The deliverables here are primarily **Markdown skill specs, configuration, and s
 
 ## Structure
 
-```
+```text
 skills/                      # The skill library (Markdown skill definitions), grouped by domain:
 ├── meta-orchestrator.md     # top-level coordinator that routes work to skills
 ├── compliance/              # ethics-advisor, legal-reviewer, security-auditor
