@@ -1,6 +1,6 @@
 # Meta Umbrella Skills
 
-A library of **42 Markdown "skill" prompts** plus two orchestrator prompts for Claude Desktop, with
+A library of **42 Markdown prompts: 40 role skills and two orchestrators** for Claude Desktop, with
 PowerShell scripts that install them into `~/.claude/skills/meta-umbrella-skills` and add MCP servers
 to the Claude Desktop config.
 
